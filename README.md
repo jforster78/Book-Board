@@ -1,2 +1,2 @@
-# Book-Board
+# Book&Board
 PHP project using CRUD.
